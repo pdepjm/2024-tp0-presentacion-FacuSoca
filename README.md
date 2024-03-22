@@ -1,5 +1,4 @@
 # 2024-tp0-presentacion-FacuSoca
-2024-tp0-presentacion-FacuSoca created by GitHub Classroom
 
 Presentacion
 
